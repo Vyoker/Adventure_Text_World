@@ -1,20 +1,19 @@
 # 🏰 Adventure Text World
 
-Game RPG teks buatan Vyoker, dimainkan langsung di Termux atau terminal Python.
+RPG game based text made by Vyoker, played directly in Termux or Python terminal.
 
-## 🔧 Cara Instal di Termux
-# Jalankan Perintah dibawah ini
+## 🔧 How to Instal in Termux
 
-pkg update && pkg install git python -y
-git clone https://github.com/Vyoker/Adventure_Text_World.git
-cd Adventure_Text_World
-python Adventure_Text_World.py
+- pkg update && pkg install git python -y
+- git clone https://github.com/Vyoker/Adventure_Text_World.git
+- cd Adventure_Text_World
+- python Adventure_Text_World.py
 
-## 🧙‍♂️ Fitur
+## 🧙‍♂️ Feature
 - Hunting
 - Dungeon
 - Quest
 - Crafting
 
-## 🎮 Buatan
+## 🎮 Copyright
 Vyoker © 2025
